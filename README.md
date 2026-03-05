@@ -9,3 +9,4 @@ https://raw.githubusercontent.com/rickdeckard82/pihole-bock/refs/heads/main/bloc
 https://raw.githubusercontent.com/rickdeckard82/pihole-bock/refs/heads/main/block_soundcloud.txt <br>
 https://raw.githubusercontent.com/rickdeckard82/pihole-bock/refs/heads/main/block_tiktok.txt <br>
 https://raw.githubusercontent.com/rickdeckard82/pihole-bock/refs/heads/main/block_tiktok.txt <br>
+https://raw.githubusercontent.com/rickdeckard82/pihole-bock/refs/heads/main/block_telegram.txt <br>
