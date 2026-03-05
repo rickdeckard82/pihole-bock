@@ -1,1 +1,7 @@
-
+0.0.0.0 telegram.org
+0.0.0.0 t.me
+0.0.0.0 api.telegram.org
+0.0.0.0 core.telegram.org
+0.0.0.0 web.telegram.org
+0.0.0.0 desktop.telegram.org
+0.0.0.0 cdn.telegram.org
